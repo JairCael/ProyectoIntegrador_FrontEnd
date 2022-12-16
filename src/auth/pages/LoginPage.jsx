@@ -45,7 +45,7 @@ export const LoginPage = () => {
                 <div className='relative w-5/6 md:w-3/6 lg:w-2/6 xl:w-96 border p-5 rounded-xl bg-white'>
 
                     <div className='text-center mt-5 mb-10 flex justify-center'>
-                        <h2 className='text-3xl uppercase font-extrabold'>Asistenciapp</h2>
+                        <h2 className='text-3xl uppercase font-extrabold'>Asistencia Login</h2>
                     </div>
                     <form onSubmit={loginSubmit} className="px-3">
                         <div className='mb-8'>
