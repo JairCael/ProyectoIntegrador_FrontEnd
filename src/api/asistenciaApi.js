@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const asistenciaApi = axios.create({
-    baseURL: 'https://asistencia-cael-api.onrender.com'
+    baseURL: 'https://asistencia-cael-api.onrender.com/api'
 })
 
 //TODO: configurar interceptores
